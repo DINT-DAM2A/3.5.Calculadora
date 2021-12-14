@@ -1,0 +1,10 @@
+5. Diseñar la interfaz de usuario de una calculadora siguiendo las siguientes
+indicaciones:
+• Únicamente se pueden utilizar paneles de tipo Grid. También es necesario
+emplear el decorador ViewBox.
+• La interfaz debe comportarse al redimensionar la ventana como en el
+ejecutable suministrado.
+• Prestad atención al comportamiento del número introducido cuando va
+creciendo.
+• Se debe implementar un único manejador de eventos para todos los botones.
+Nombre del proyecto: Calculadora
